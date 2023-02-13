@@ -1,0 +1,35 @@
+*{
+    border:transparent;
+}
+h1{
+    color:rgb(255, 215, 0);
+    margin: 10px;
+}
+.header{
+    background-color: darkblue;
+    display:flex;
+    justify-content: space-between;
+}
+.jogos{
+    background-color:gray;
+    display:flex;
+    justify-content: space-between;
+}
+body{
+    background-color: black;
+}
+h2{
+    color:gold;
+    text-align:center;
+}
+.item{
+    border:solid;
+    margin: 10px;
+}
+a:visited{
+    color:greenyellow;
+    
+}
+a{
+    margin: 10px;
+}
